@@ -12,7 +12,7 @@
 .header {
   position: relative;
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   align-items: center;
   -webkit-align-items: center;
   height: 100vh;
@@ -91,7 +91,7 @@
 
 .description {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   flex-direction: column;
   -webkit-flex-direction: column;
   align-items: center;
@@ -100,7 +100,7 @@
 
 .two-columns {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   align-self: center;
   -webkit-align-self: center;
   justify-content: space-between;
@@ -111,7 +111,7 @@
 
 .two-columns__brief{
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   margin: 0;
   font-size: 18px;
   line-height: 1.2;
@@ -122,7 +122,7 @@
 
 .two-columns__main-text {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   flex-direction: column;
   -webkit-flex-direction: column;
   width: 80%;
@@ -147,7 +147,7 @@
 
 .digits {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   align-items: center;
   -webkit-align-items: center;
   flex-direction: column;
@@ -186,7 +186,7 @@
 
 .table {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   flex-direction: row;
   -webkit-flex-direction: row;
   justify-content: space-between;
@@ -206,7 +206,7 @@
 
 .table__cell {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   flex-direction: column;
   -webkit-flex-direction: column;
   width: 250px;
@@ -282,12 +282,12 @@
 }
 
 .feynman__link:hover {
-  background: #9da0a5;;
+  background: #9da0a5;
 }
 
 .kaufman {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   align-items: center;
   -webkit-align-items: center;
   flex-direction: column;
@@ -309,7 +309,7 @@
 }
 
 .footer {
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   display: flex;
   min-height: 350px;
   background-color: #1f1f1f;
@@ -317,7 +317,7 @@
 
 .footer__columns {
   width: 90%;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   display: flex;
   margin: 60px auto 40px;
   justify-content: space-around;
@@ -326,7 +326,7 @@
 
 .footer__column_content_copyright {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   flex-basis: 711px;
   -webkit-flex-basis: 711px;
   flex-direction: column;
@@ -340,7 +340,7 @@
 
 .footer__column_content_info {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   flex-direction: column;
   -webkit-flex-direction: column;
   width: auto;
@@ -351,7 +351,7 @@
 
 .footer__column_content_social {
   display: flex;
-  display: -webkit-flex;
+  /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   flex-direction: column;
   -webkit-flex-direction: column;
   width: auto;
@@ -386,7 +386,6 @@
   list-style: none;
   margin: 0 0 16px;
   padding: 0;
-  margin: 0;
 }
 
 .footer__column-link:hover {
