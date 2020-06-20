@@ -195,6 +195,7 @@
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   list-style: none;
+  padding: 0;
 }
 
 .table_theme_dark {
@@ -244,7 +245,7 @@
 
 .feynman {
   position: relative;
-  padding: 100px;
+  padding-top: 100px;
   background-color: #f2f2f2;
   background-image: url(../images/feynman.png);
   background-repeat: no-repeat;
@@ -298,7 +299,7 @@
   margin: 0 auto;
 }
 
-.kaufman__picture {
+.kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
   width: 877px;
   height: 877px;
@@ -315,13 +316,13 @@
   background-color: #1f1f1f;
 }
 
-.footer__columns {
+.footer__column {
   width: 90%;
   /*display: -webkit-flex;*/ /* при загрузке выдает ошибку */
   display: flex;
   margin: 60px auto 40px;
-  justify-content: space-around;
-  -webkit-justify-content: space-around;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
 }
 
 .footer__column_content_copyright {
