@@ -1,0 +1,10 @@
+.footer__column_content_info {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    width: auto;
+    margin: 0;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+  }

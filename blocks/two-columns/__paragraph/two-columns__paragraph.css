@@ -1,0 +1,9 @@
+.two-columns__paragraph {
+    font-weight: normal;
+    margin: 0 0 30px;
+  }
+  
+  .two-columns__paragraph:last-child {
+    font-weight: normal;
+    margin: 0;
+  }

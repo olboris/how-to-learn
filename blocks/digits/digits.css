@@ -1,0 +1,9 @@
+.digits {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    margin: 0 auto 100px;
+  }
