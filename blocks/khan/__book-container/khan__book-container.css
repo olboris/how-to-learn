@@ -3,4 +3,6 @@
     display: flex;
     -webkit-align-items: flex-start;
     align-items: flex-start;
+    overflow: hidden;
+    
   }
