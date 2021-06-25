@@ -2,7 +2,7 @@
 
 ### Учебный проект Яндекс.Практикум, курс 01, спринт 03
 
-### Демонстрация проекта: [How to learn](https://olboris.github.io/how-to-learn/index.html)
+### Демонстрация проекта: [How to learn](https://olboris.github.io/how-to-learn/)
 ---
 ### Описание
 
