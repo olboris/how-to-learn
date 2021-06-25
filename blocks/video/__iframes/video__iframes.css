@@ -1,11 +1,11 @@
 .video__iframes {
-    position: relative;
-    top: 60px;
-    margin: -10px 0 auto;
-    padding: 0;
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 1050px;
-  }
+  position: relative;
+  top: 60px;
+  margin: -10px 0 auto;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1050px;
+}

@@ -4,13 +4,13 @@
 @import url(./__item/cards__item.css);
 
 .cards {
-    width: 920px;
-    display: -webkit-flex;
-    display: flex;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    -webkit-flex-wrap: wrap;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
+  width: 920px;
+  display: -webkit-flex;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

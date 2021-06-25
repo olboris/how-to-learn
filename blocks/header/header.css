@@ -5,14 +5,14 @@
 @import url(./__link/header__link.css);
 
 .header {
-    position: relative;
-    display: -webkit-flex;
-    display: flex;
-    align-items: center;
-    -webkit-align-items: center;
-    height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    background-color: #f2f2f2;
-    overflow: hidden;
-  }
+  position: relative;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  -webkit-align-items: center;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  overflow: hidden;
+}

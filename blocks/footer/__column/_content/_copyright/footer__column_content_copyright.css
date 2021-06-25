@@ -1,13 +1,13 @@
 .footer__column_content_copyright {
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-basis: 711px;
-    flex-basis: 711px;
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: flex-start;
-    align-items: flex-start;
-    -webkit-justify-content: space-between;
-    justify-content: space-between;
-    margin: 0;
-  }
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-basis: 711px;
+  flex-basis: 711px;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  margin: 0;
+}

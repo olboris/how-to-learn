@@ -2,7 +2,7 @@
 @import url(./__iframes/video__iframes.css);
 
 .video {
-  position: relative;  
+  position: relative;
   margin: 0 auto ;
   display: -webkit-flex;
   display: flex;
@@ -10,4 +10,4 @@
   align-items: center;
   -webkit-flex-direction: column;
   flex-direction: column;
-  }
+}
